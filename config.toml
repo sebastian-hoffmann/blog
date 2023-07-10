@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "sebastian-hoffmann.vercel.app"
+base_url = "/"
 title = "sebastian-hoffmann"
 theme = "after-dark"
 # Whether to automatically compile all Sass files in the sass directory
