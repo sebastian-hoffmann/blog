@@ -18,4 +18,4 @@ jobs:
           # Or if publishing to the same repo, use the automatic token
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CHECK_LINKS: true
-          BUILD_FLAGS: "--base-url "h0ffmann.at"
+          BUILD_FLAGS: "--base-url "h0ffmann.at""
