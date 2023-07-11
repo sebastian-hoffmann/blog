@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>sebastian-hoffmann - personal</title>
+    <link href="https://www.h0ffmann.at/tags/personal/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://www.h0ffmann.at"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-07-07T00:00:00+00:00</updated>
+    <id>https://www.h0ffmann.at/tags/personal/atom.xml</id>
+    <entry xml:lang="en">
+        <title>my first post</title>
+        <published>2023-07-07T00:00:00+00:00</published>
+        <updated>2023-07-07T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://www.h0ffmann.at/first/" type="text/html"/>
+        <id>https://www.h0ffmann.at/first/</id>
+        
+        <content type="html">&lt;p&gt;Hello from the other side. Asking for a friend if this is the way to do internet in 2023.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
