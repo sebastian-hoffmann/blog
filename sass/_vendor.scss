@@ -16,7 +16,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  line-height: 1.3em
+  line-height: 1.3em;
+  color: #9999ff
 }
 
 fieldset {
@@ -41,9 +42,9 @@ code[class*=language-], pre[class*=language-], pre code {
 
 a {
   cursor: pointer;
-  color: #ff2e88;
+  color: #ff66cc;
   text-decoration: none;
-  border-bottom: 1px solid #ff2e88
+  border-bottom: 1px solid #ff66cc
 }
 
 a:hover {
@@ -195,6 +196,7 @@ a:hover {
 
 .hack header + article {
   margin-top: 20px;
+  color: #f5f5f5
 }
 
 .hack blockquote, .hack h1, .hack ol, .hack p, .hack ul {
@@ -208,14 +210,16 @@ a:hover {
   display: table-cell;
   padding: 20px 0 30px;
   margin: 0;
-  overflow: hidden
+  overflow: hidden;
+  color: #f5f5f5
 }
 
 .hack h1:after {
   content: "====================================================================================================";
   position: absolute;
   bottom: 10px;
-  left: 0
+  left: 0;
+  color: #9999ff
 }
 
 .hack h1 + * {
@@ -884,7 +888,8 @@ select.form-control {
 }
 
 .dark h1 a, .dark h2 a, .dark h3 a, .dark h4 a, .dark h5 a {
-  color: #ccc
+  color: #f5f5f5;
+  
 }
 
 .dark code, .dark strong {
