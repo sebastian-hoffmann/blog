@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>sebastian-hoffmann</title>
+    <link href="https://www.h0ffmann.at/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://www.h0ffmann.at"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-07-09T00:00:00+00:00</updated>
+    <id>https://www.h0ffmann.at/atom.xml</id>
+    <entry xml:lang="en">
+        <title>about me</title>
+        <published>2023-07-09T00:00:00+00:00</published>
+        <updated>2023-07-09T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://www.h0ffmann.at/about/" type="text/html"/>
+        <id>https://www.h0ffmann.at/about/</id>
+        
+        <content type="html">&lt;h1 id=&quot;whoami&quot;&gt;whoami?&lt;&#x2F;h1&gt;
+&lt;p&gt;sebastian&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;what-s-this-about&quot;&gt;what&#x27;s this about?&lt;&#x2F;h1&gt;
+&lt;p&gt;i like getting into random stuff. apparently, making a minimal blog was part of it. so i did that and now I am stuck with it, haha. for real though, i will try to make a habit of posting about the random stuff that piques my interests - or just whatever floats my boat. maybe i&#x27;ll put a short story up, i am keeping this wide open. if anyone stumbled upon this site and actually reads this stuff, i would be truly surprised - but I&#x27;ll also be happy if someone appreciates my ramblings. at the time of writing this intro, there is nothing on here.&lt;&#x2F;p&gt;
+&lt;p&gt;my interestis include&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;reading, mostly fantasy and sci-fi as well as excessively consuming all sorts of contemporary media&lt;&#x2F;li&gt;
+&lt;li&gt;various topics of system administration, especially automation and cybersecurity&lt;&#x2F;li&gt;
+&lt;li&gt;expanding my culinary horizons, actively and passively&lt;&#x2F;li&gt;
+&lt;li&gt;engaging in lavish pseudo-intellectualism&lt;&#x2F;li&gt;
+&lt;li&gt;world peace (we probably should all be interested in that, shouldn&#x27;t we?)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;why-don-t-you-just-use-facebook-twitter-myspace-or-the-new-flavor-of-the-month-social-media-experiment&quot;&gt;why don&#x27;t you just use facebook&#x2F;twitter&#x2F;myspace or the new flavor of the month social media experiment?&lt;&#x2F;h1&gt;
+&lt;p&gt;it&#x27;s more fun this way, i get to play with tech and dictate &lt;strong&gt;all&lt;&#x2F;strong&gt; the content. this means here we are free of tracking nonsense and targeted ads for your dental hygiene. &lt;strong&gt;for now.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;how-was-this-made&quot;&gt;how was this made?&lt;&#x2F;h1&gt;
+&lt;p&gt;this page was made with zola, a static-site-generator build with rust and its awesome after-dark theme, which I minimally altered. at the moment, it is built and hosted with github pages but this might change and i might forget to update this page so there&#x27;s that.&lt;&#x2F;p&gt;
+&lt;p&gt;all the posts are written in markdown.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;anything-else&quot;&gt;anything else?&lt;&#x2F;h1&gt;
+&lt;p&gt;if you have found some kinds of errors on this page or you want to shout at me because I said something stupid, please do not hesitate to reach out to me at blog(at)h0ffmann.at&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>my first post</title>
+        <published>2023-07-07T00:00:00+00:00</published>
+        <updated>2023-07-07T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://www.h0ffmann.at/first/" type="text/html"/>
+        <id>https://www.h0ffmann.at/first/</id>
+        
+        <content type="html">&lt;p&gt;Hello from the other side!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
